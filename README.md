@@ -35,4 +35,4 @@ Web Scraping of Amazon & Hatla2ee websites that has many pages with beautiful so
 - **Time of Execution**: the script calculates the execution time using time library.
 
 ## 🔗 Link to Project on Google Colab
-https://colab.research.google.com/drive/1STtErZ1dwAxAdZW6KYt8rbnXGk5gTFh2?usp=sharing
+https://colab.research.google.com/drive/139w8UMYvnlX1uc93u6mvos1QtlsiIHl2?usp=sharing
